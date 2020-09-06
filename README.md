@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github.com/SanchitaMishra170676/Eduthon/blob/master/Addhyan/Images/Addhyan.png" width="300"/></p>
 
 <p align="center"> 
-[![Watch the video](https://github.com/SanchitaMishra170676/Virtual-Hackathon/blob/master/SS.PNG)](https://youtu.be/cbW13DIWewo "Watch Complete Video - Hover to see this")
+[![Watch the video](https://github.com/SanchitaMishra170676/Eduthon/blob/master/video-ss.PNG)](https://youtu.be/cbW13DIWewo "Watch Complete Video - Hover to see this")
   </p>
 
 
