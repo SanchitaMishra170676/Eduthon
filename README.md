@@ -3,6 +3,10 @@
 # QUARANTEAM : [Vanshika Singhal,](https://www.linkedin.com/in/vanshika-singhal-3a4a301a7/ "View Linkdin Profile") [Sakshi Singh,](https://www.linkedin.com/in/sakshi-singh-988b9a1aa/ "View Linkdin Profile") [Sanchita](https://www.linkedin.com/in/sanchita-mishra-1b622a196/ "View Linkdin Profile")
 <p align="center"><img src="https://github.com/SanchitaMishra170676/Eduthon/blob/master/Addhyan/Images/Addhyan.png" width="300"/></p>
 
+<p align="center"> 
+[![Watch the video](https://github.com/SanchitaMishra170676/Virtual-Hackathon/blob/master/SS.PNG)](https://youtu.be/cbW13DIWewo "Watch Complete Video - Hover to see this")
+  </p>
+
 
 ## PROBLEM STATEMENT
 - While coronavirus continues to spread across the globe, many countries have decided to close schools as part of a social distancing policy, not just affecting the academics but now they are a problem for the emerging minds.
