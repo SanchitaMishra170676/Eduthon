@@ -7,6 +7,9 @@
 [![Watch the video](https://github.com/SanchitaMishra170676/Eduthon/blob/master/video-ss.PNG)](https://youtu.be/cbW13DIWewo "Watch Complete Video")
   </p><br>
 
+### [Watch Video](https://youtu.be/cbW13DIWewo "Watch Video")
+### [View PPT](https://docs.google.com/presentation/d/1Y2BkverTYcryBtDfAQ_PJ59f_Hb4QjtwIZkA7hLncWY/edit?usp=sharing "View PPT")
+
 ## PROBLEM STATEMENT
 - While coronavirus continues to spread across the globe, many countries have decided to close schools as part of a social distancing policy, not just affecting the academics but now they are a problem for the emerging minds.
 
